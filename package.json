@@ -19,5 +19,18 @@
   "dependencies": {
     "lucide-svelte": "^0.408.0",
     "tailwind-scrollbar": "^2.1.0"
-  }
+  },
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiXvier/calendario-cosmico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiXvier/calendario-cosmico/issues"
+  },
+  "homepage": "https://github.com/GuiXvier/calendario-cosmico#readme",
+  "description": ""
 }
