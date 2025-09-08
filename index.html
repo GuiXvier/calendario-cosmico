@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calendário Cósmico - História do Universo</title>
+    <meta name="description"
+        content="Uma jornada pela história do universo condensada em um ano - do Big Bang aos dias atuais">
+
+    <!-- Preload de fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Meta tags para redes sociais -->
+    <meta property="og:title" content="Calendário Cósmico - História do Universo" />
+    <meta property="og:description"
+        content="Explore 13.8 bilhões de anos de história universal condensados em um calendário interativo" />
+    <meta property="og:type" content="website" />
+
+    <style>
+        /* Loading screen */
+        .initial-loading {
+            position: fixed;
+            inset: 0;
+            background: linear-gradient(135deg, #0a0a1a 0%, #2d1b69 50%, #1e3a8a 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            color: white;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .loading-content {
+            text-align: center;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(124, 58, 237, 0.3);
+            border-top-color: #7c3aed;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <!-- Loading screen que será removido quando o app carregar -->
+    <div class="initial-loading" id="initial-loading">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <h2
+                style="margin: 0; font-weight: 600; background: linear-gradient(to right, #a855f7, #3b82f6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+                Calendário Cósmico
+            </h2>
+            <p style="margin: 10px 0 0; opacity: 0.8; font-size: 14px;">
+                Carregando o universo...
+            </p>
+        </div>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
+
+    <script>
+        // Remove loading screen quando o app estiver pronto
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                const loading = document.getElementById('initial-loading');
+                if (loading) {
+                    loading.style.opacity = '0';
+                    loading.style.transition = 'opacity 0.5s ease-out';
+                    setTimeout(() => loading.remove(), 500);
+                }
+            }, 1000);
+        });
+    </script>
+</body>
+
+</html>
