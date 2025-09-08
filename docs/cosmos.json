@@ -1,0 +1,257 @@
+{
+  "01-01": [
+    {
+      "time": "00:00:00",
+      "title": "O Big Bang e o Início do Universo",
+      "description": "O universo nasce de um ponto infinitamente denso e quente, aproximadamente 13,8 bilhões de anos atrás. Neste instante, a Era de Planck começa, onde as leis da física como as conhecemos podem não se aplicar, e as quatro forças fundamentais (gravidade, eletromagnetismo, nuclear forte e fraca) podem ter sido unificadas. A expansão e o resfriamento cósmico se iniciam."
+    },
+    {
+      "time": "00:00:00",
+      "title": "Surgimento das Forças e Partículas Fundamentais",
+      "description": "Sequencialmente, as forças se separam (Era da Grande Unificação, Era Eletrofraca) e o espaço passa por um período de Inflação Cósmica rápida. O universo é uma 'sopa' de partículas elementares como quarks e glúons, que se juntam para formar prótons e nêutrons (Era de Quarks, Era Hádron). A matéria prevalece sobre a antimatéria (Bariogênese)."
+    },
+    {
+      "time": "00:00:01",
+      "title": "Nascimento dos Elementos Leves e Desacoplamento de Neutrinos",
+      "description": "Prótons e nêutrons se unem para formar os primeiros elementos leves, como hidrogênio e hélio (Nucleossíntese do Big Bang, que dura cerca de 2 a 20 minutos cósmicos). Os neutrinos se desacoplam e começam a viajar livremente pelo espaço (cerca de 1 segundo após o Big Bang), formando o fundo cósmico de neutrinos. Buracos negros primordiais podem ter se formado neste período."
+    },
+    {
+      "time": "00:00:10",
+      "title": "Luzes Acendem e a Radiação Cósmica de Fundo (CMB)",
+      "description": "Após cerca de 370.000 anos, o universo esfria o suficiente para que os elétrons se unam aos núcleos, formando átomos neutros (Recombinação). A luz se liberta e o universo se torna transparente, criando a Radiação Cósmica de Fundo (CMB), observável até hoje. A 'Idade Cósmica das Trevas' começa, um período sem novas fontes de luz estelar visível. As primeiras moléculas, como o hidreto de hélio, se formam por volta dos 100.000 anos."
+    },
+    {
+      "time": "00:00:10",
+      "title": "Era Habitável Primordial Especulada",
+      "description": "Entre 10 e 17 milhões de anos após o Big Bang, a temperatura média do universo pode ter sido adequada para a água líquida (entre 0°C e 100°C), levantando a especulação de que vida primitiva poderia, em princípio, ter aparecido durante esta 'época habitável do universo primitivo'."
+    }
+  ],
+  "01-03": [
+    {
+      "title": "Início da Formação de Estruturas Cósmicas",
+      "description": "Aproximadamente 100 milhões de anos após o Big Bang, o colapso gravitacional impulsionado pela matéria escura começa a reunir matéria comum em estruturas maiores, marcando o prelúdio da formação de estrelas e galáxias. A reionização, processo em que a luz ioniza o gás neutro, começa."
+    }
+  ],
+  "01-05": [
+    {
+      "title": "Nascimento das Primeiras Estrelas e Protogaláxias",
+      "description": "A gravidade aglomera nuvens de gás, dando origem às primeiras estrelas (População III), que são massivas, quentes e com vida curta, e às protogaláxias. Supernovas dessas estrelas primitivas começam a espalhar os primeiros elementos pesados pelo cosmos."
+    }
+  ],
+  "01-06": [
+    {
+      "title": "Formação de Estrelas Primitivas Notáveis",
+      "description": "Estrelas muito antigas como HD 140283 (Estrela de Matusalém) e SMSS J031300.36-670839.3 (a estrela mais antiga conhecida e confirmada) se formam, cerca de 200 milhões de anos após o Big Bang."
+    }
+  ],
+  "01-11": [
+    {
+      "title": "GN-z11: A Galáxia Mais Antiga Conhecida",
+      "description": "Forma-se GN-z11, atualmente a galáxia mais antiga conhecida, cerca de 400 milhões de anos após o Big Bang. Galáxias menores começam a se fundir para formar estruturas maiores."
+    }
+  ],
+  "01-14": [
+    {
+      "title": "Primeiros Quasares Supermassivos",
+      "description": "Objetos como MACS0647-JD e ULAS J1120+0641, quasares superbrilhantes alimentados por buracos negros supermassivos, começam a se formar, indicando a existência de grandes buracos negros logo após o Big Bang."
+    }
+  ],
+  "01-26": [
+    {
+      "title": "Fim da Idade das Trevas e Reionização Completa",
+      "description": "Cerca de 700 milhões a 1 bilhão de anos após o Big Bang, a intensa radiação das primeiras estrelas e quasares reioniza completamente o gás hidrogênio neutro, encerrando a Idade Cósmica das Trevas e tornando o universo transparente à luz visível."
+    }
+  ],
+  "02-04": [
+    {
+      "title": "Evolução e Diversificação das Galáxias",
+      "description": "Galáxias luminosas continuam a se formar e evoluir. Sistemas exóticos, como a 'Estrela Diamante' (PSR J1719-1438 b), um planeta em órbita de um pulsar e uma anã branca, começam a surgir cerca de 1.3 bilhões de anos após o Big Bang."
+    }
+  ],
+  "02-18": [
+    {
+      "title": "Eventos Cósmicos Cataclísmicos e Evolução Galáctica",
+      "description": "Ocorre a mais energética explosão de raios gama já registrada (GRB 080916C), com duração de 23 minutos. Galáxias antigas e a 'Estrela de Matusalém' são capturadas pela Via Láctea em formação, cerca de 1.8 bilhões de anos após o Big Bang."
+    }
+  ],
+  "02-23": [
+    {
+      "title": "Supernovas Antigas e Buracos Negros Intermediários",
+      "description": "A supernova mais antiga observada (SN 1000+0216) explode, possivelmente formando um pulsar. Aglomerados globulares como Messier 15, que podem abrigar buracos negros intermediários, começam a se formar, cerca de 2 bilhões de anos após o Big Bang."
+    }
+  ],
+  "02-28": [
+    {
+      "title": "O Universo Cresce e se Agrupa em Estruturas",
+      "description": "Grandes aglomerados globulares, como Omega Centauri (o maior da Via Láctea), se formam, cerca de 2.5 bilhões de anos após o Big Bang. O universo continua a se organizar em estruturas cada vez maiores, com galáxias e aglomerados evoluindo."
+    }
+  ],
+  "03-06": [
+    {
+      "title": "Formação de Sistemas Planetários Primitivos",
+      "description": "Sistemas planetários como Gliese 581, incluindo planetas que poderiam ter condições adequadas para a vida ('planeta oceânico' Gliese 581c e 'super-Terra' Gliese 581d), começam a se formar, cerca de 3 bilhões de anos após o Big Bang."
+    }
+  ],
+  "03-15": [
+    {
+      "title": "Galáxias Espirais e Supernovas Distantes",
+      "description": "Forma-se a BX442, a galáxia espiral de grande design mais antiga observada (3.3 bilhões de anos após BB). Supernovas distantes, como SN UDS10Wil, são registradas, enriquecendo o cosmos com elementos mais pesados."
+    }
+  ],
+  "03-24": [
+    {
+      "title": "Formação da Galáxia de Andrômeda e Novas Estrelas",
+      "description": "A Galáxia de Andrômeda começa a se formar através de fusões galácticas, iniciando seu curso de colisão com a Via Láctea. Estrelas como a Anã Vermelha de Barnard e planetas habitáveis como Gliese 677 Cc também surgem, cerca de 4 bilhões de anos após o Big Bang."
+    }
+  ],
+  "05-13": [
+    {
+      "title": "Formação do Disco da Via Láctea",
+      "description": "Nossa galáxia, a Via Láctea, começa a formar seu disco espiral fino através da fusão de galáxias menores, aproximadamente 5 bilhões de anos após o Big Bang. Este é também o período em que estrelas de População I, semelhantes ao Sol, começam a aparecer, com alta saturação de elementos pesados, permitindo a formação de nebulosas planetárias e planetas rochosos."
+    }
+  ],
+  "07-26": [
+    {
+      "title": "Início da Aceleração Cósmica",
+      "description": "Cerca de 7.8 bilhões de anos após o Big Bang, a expansão do universo começa a acelerar devido à influência da energia escura, que passa a dominar a densidade de energia total. O universo começa a ter a aparência que vemos hoje, e continuará assim por muitos bilhões de anos no futuro."
+    }
+  ],
+  "09-01": [
+    {
+      "title": "Nascimento do Sol e do Sistema Solar",
+      "description": "Uma nuvem de gás e poeira colapsa, acendendo nosso Sol e formando os planetas jovianos (Júpiter, Saturno, Urano, Netuno) do Sistema Solar, aproximadamente 9.2 bilhões de anos após o Big Bang, ou cerca de 4.6 bilhões de anos atrás. Este evento é possivelmente desencadeado por uma supernova primitiva."
+    }
+  ],
+  "09-02": [
+    {
+      "title": "Formação da Terra e Planetas Terrestres",
+      "description": "Os quatro planetas terrestres (Mercúrio, Vênus, Terra, Marte) se solidificam através da acreção de planetesimais, sendo a Terra formada cerca de 4.54 bilhões de anos atrás (9.257 bilhões de anos após o Big Bang). A Terra entra no Éon Hadeano do Superéon Pré-Cambriano."
+    }
+  ],
+  "09-03": [
+    {
+      "title": "Formação da Lua",
+      "description": "A Lua se forma a partir dos detritos de uma grande colisão entre a Terra primitiva e um planeta hipotético do tamanho de Marte (Theia), cerca de 4.533 bilhões de anos atrás. A atração gravitacional da Lua ajuda a estabilizar o eixo de rotação da Terra."
+    }
+  ],
+  "09-06": [
+    {
+      "title": "Primeiros Oceanos na Terra",
+      "description": "A superfície da Terra esfria, permitindo que o vapor d'água na atmosfera condense e forme os primeiros oceanos primitivos, cerca de 4.404 bilhões de anos atrás. Este aquecimento pode ter sido intensificado pelo efeito estufa devido a altos níveis de metano e dióxido de carbono."
+    }
+  ],
+  "09-22": [
+    {
+      "title": "Surgimento da Vida Unicelular",
+      "description": "As primeiras formas de vida microscópicas (unicelulares) aparecem nos oceanos da Terra, cerca de 3.8 bilhões de anos atrás (10 bilhões de anos após o Big Bang). Éon Arqueano começa na Terra."
+    }
+  ],
+  "10-13": [
+    {
+      "title": "Início da Fotossíntese",
+      "description": "Organismos, como as cianobactérias, desenvolvem a fotossíntese, começando a produzir oxigênio e transformando a atmosfera terrestre, aproximadamente 3.5 bilhões de anos atrás (10.4 bilhões de anos após o Big Bang)."
+    }
+  ],
+  "10-27": [
+    {
+      "title": "Início do Éon Proterozoico",
+      "description": "Um período crucial de evolução biológica, com o desenvolvimento de organismos eucariontes e o aumento da complexidade celular, iniciando cerca de 2.5 bilhões de anos atrás (11.2 bilhões de anos após o Big Bang). Este é também o período do último grande período tectônico em Marte."
+    }
+  ],
+  "11-05": [
+    {
+      "title": "Surgimento das Células Eucarióticas",
+      "description": "Aparecem as primeiras células com núcleo definido (eucariontes), permitindo maior complexidade biológica e abrindo caminho para a vida multicelular."
+    }
+  ],
+  "11-19": [
+    {
+      "title": "Desenvolvimento da Reprodução Sexual",
+      "description": "Organismos desenvolvem a reprodução sexual, um avanço que impulsiona significativamente a diversidade genética e a velocidade da evolução, cerca de 1.6 bilhões de anos atrás."
+    }
+  ],
+  "12-06": [
+    {
+      "title": "Surgimento da Vida Multicelular",
+      "description": "Os primeiros organismos multicelulares complexos aparecem nos oceanos, marcando um passo fundamental na evolução da vida."
+    }
+  ],
+  "12-17": [
+    {
+      "title": "A Explosão Cambriana",
+      "description": "Um período de rápida e intensa diversificação da vida animal na Terra, com o surgimento da maioria dos filos animais modernos, aproximadamente 540 milhões de anos atrás."
+    }
+  ],
+  "12-18": [
+    {
+      "title": "Primeiros Peixes e Vertebrados",
+      "description": "Evolução dos primeiros peixes e outros organismos com coluna vertebral (vertebrados), cerca de 500 milhões de anos atrás."
+    }
+  ],
+  "12-20": [
+    {
+      "title": "A Conquista da Terra Firme",
+      "description": "As primeiras plantas e animais se adaptam e colonizam o ambiente terrestre, transformando ecossistemas e abrindo novas vias para a evolução da vida."
+    }
+  ],
+  "12-24": [
+    {
+      "title": "A Era dos Répteis e Anfíbios",
+      "description": "Desenvolvimento e diversificação de répteis e anfíbios, que se adaptam a uma variedade de ambientes terrestres e aquáticos."
+    }
+  ],
+  "12-26": [
+    {
+      "title": "Dinossauros e Primeiros Mamíferos",
+      "description": "Os dinossauros se tornam as formas de vida dominantes na Terra, governando por mais de 160 milhões de anos (iniciando no Triássico), enquanto os primeiros mamíferos também surgem em um papel menor."
+    }
+  ],
+  "12-30": [
+    {
+      "title": "Extinção dos Dinossauros e Ascensão dos Mamíferos",
+      "description": "Um evento catastrófico, provavelmente o impacto de um asteroide, causa a extinção em massa dos dinossauros não-aviários, cerca de 66 milhões de anos atrás. Isso abre caminho para a rápida diversificação e ascensão dos mamíferos."
+    }
+  ],
+  "12-31": [
+    {
+      "time": "13:30:00",
+      "title": "Antepassados Comuns dos Primatas",
+      "description": "Aparecem os primeiros ancestrais que darão origem aos macacos e aos seres humanos, marcando o início da linhagem dos primatas."
+    },
+    {
+      "time": "22:30:00",
+      "title": "Surgimento dos Primeiros Hominídeos",
+      "description": "Nossos ancestrais mais próximos, os hominídeos, começam a evoluir na África, desenvolvendo a capacidade de andar eretos."
+    },
+    {
+      "time": "23:00:00",
+      "title": "Início do Uso de Ferramentas",
+      "description": "Os hominídeos começam a fabricar e usar ferramentas de pedra de forma sistemática, um marco na evolução tecnológica e cognitiva."
+    },
+    {
+      "time": "23:45:00",
+      "title": "Surgimento do Homo Sapiens Moderno",
+      "description": "A espécie humana moderna, Homo sapiens, surge na África, com suas características distintivas e capacidade para cultura e linguagem complexas."
+    },
+    {
+      "time": "23:58:00",
+      "title": "Revolução Agrícola",
+      "description": "O desenvolvimento da agricultura e a domesticação de animais transformam fundamentalmente as sociedades humanas, levando ao sedentarismo e ao aumento populacional."
+    },
+    {
+      "time": "23:59:00",
+      "title": "Nascimento das Civilizações e da Escrita",
+      "description": "Surgem as primeiras civilizações, com cidades, escrita, organização social complexa e o início da história registrada."
+    },
+    {
+      "time": "23:59:50",
+      "title": "A Era da Ciência e Tecnologia",
+      "description": "Os últimos séculos marcam a Revolução Científica e Industrial, com figuras como Copérnico, Galileu e Newton. Descobertas como a expansão do universo (Hubble) e a Radiação Cósmica de Fundo (Penzias e Wilson) transformam nossa compreensão do cosmos e lançam as bases da física moderna."
+    },
+    {
+      "time": "23:59:59",
+      "title": "O Presente: Era Digital e Exploração Espacial",
+      "description": "A cultura moderna se desenvolve, impulsionada por avanços em tecnologia digital, exploração espacial e a busca contínua por conhecimento sobre o universo. O momento atual."
+    }
+  ]
+}
