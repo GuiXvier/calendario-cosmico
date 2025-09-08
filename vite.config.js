@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [svelte()],
   base: '/calendario-cosmico/',
   build: {
-    outDir: 'dist',
+    outDir: 'docs', // <-- Mude 'dist' para 'docs'
     assetsDir: 'assets'
   }
 })
