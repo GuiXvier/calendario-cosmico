@@ -17,7 +17,7 @@
 
   onMount(async () => {
     try {
-      const response = await fetch("/cosmos.json");
+      const response = await fetch("./cosmos.json");
       if (!response.ok) {
         throw new Error("Falha ao carregar eventos cósmicos");
       }
